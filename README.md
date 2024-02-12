@@ -42,11 +42,7 @@ We welcome contributions from everyone! Here's how you can contribute:
 
 ## Roadmap
 
-Our roadmap is community-driven and transparent. Key milestones include:
-
-- Q1 2024: Launch of SNLP token.
-- Q2 2024: First community voting event.
-- Q3 2024: Expansion of SNLP utility in DeFi.
+Our roadmap is a living document that outlines the milestones we plan to achieve.
 
 Stay updated with our roadmap [here](#).
 
@@ -56,7 +52,7 @@ SnowLeppy (SNLP) is released under the [MIT License](LICENSE).
 
 ## Support
 
-Need help or have questions? Reach out to us at [support@snowleppy.com](mailto:support@snowleppy.com).
+Need help or have questions? Reach out to us at [support@snowleppy.io](mailto:support@snowleppy.io).
 
 ## Disclaimer
 
