@@ -14,6 +14,13 @@ SnowLeppy (SNLP) is inspired by the playful and resilient spirit of the Snow Leo
 - **Secure & Transparent**: Utilizing the robust security features of the Avalanche network.
 - **Eco-Friendly**: Committed to sustainable blockchain practices.
 
+## Transparency Initiatives
+
+As part of our commitment to transparency and trust within the SnowLeppy community, we openly share details about SNLP token distribution, wallet addresses, and ownership information. This initiative ensures that all community members have access to important financial aspects of the project.
+
+For detailed information, visit our [Token Holder Transparency Repository](https://github.com/Snowleppy/Wallet-Details/blob/main/README.md).
+
+
 ## Getting Started
 
 Interested in joining the SnowLeppy community? Here's how you can get involved:
@@ -30,7 +37,7 @@ To start working with SNLP on your projects, follow these steps:
 2. Add the Avalanche network to your wallet.
 3. Acquire SNLP tokens.
 
-For detailed instructions, refer to our [installation guide](#).
+For detailed instructions - (a step-by-step guide is in the works)
 
 ## Contribution
 
@@ -42,13 +49,11 @@ We welcome contributions from everyone! Here's how you can contribute:
 
 ## Roadmap
 
-Our roadmap is a living document that outlines the milestones we plan to achieve.
-
-Stay updated with our roadmap [here](#).
+We don't have an official roadmap but will be publishing a project outline soon.
 
 ## License
 
-SnowLeppy (SNLP) is released under the [MIT License](LICENSE).
+SnowLeppy (SNLP) is released under the [MIT License](LICENSE-SNLP.md).
 
 ## Support
 
