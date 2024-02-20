@@ -49,17 +49,9 @@ We welcome contributions from everyone! Here's how you can contribute:
 
 ## Roadmap
 
-Our journey is just beginning. Here's a glimpse at what we're planning:
+Our roadmap is a living document that outlines the milestoneswe plan to achieve.\
 
-- We will promote the crap out of SNLP
-- You could make some money out of it, or not
-- When we finish this crazy ride, you’ll be able to exchange your SNLP tokens for Jaxx tokens. Or keep ‘em, or sell them.
-
-Jaxx won’t be released until we get listing commitments for three centralised exchanges for a truly fair launch.
-
-Jaxx will not be available on a dex unless a truly decentralised exchange comes into the picture ahead of launch.
-
-The only way to get Jaxx tokens ahead of the launch is by holding SNLP tokens.
+Stay updated with our roadmap here [https://github.com/Snowleppy/Roadmap-SNLP.git]
 
 ## License
 
