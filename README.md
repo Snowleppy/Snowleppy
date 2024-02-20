@@ -50,7 +50,9 @@ We welcome contributions from everyone! Here's how you can contribute:
 ## Roadmap
 
 • We will promote the crap out of SNLP
+
 • You could make some money out of it, or not
+
 • When we finish this crazy ride, you’ll be able to exchange your SNLP tokens for Jaxx tokens. Or keep ‘em, or sell them.
 
 Jaxx won’t be released until we get listing commitments for three centralised exchanges for a truly fair launch.
