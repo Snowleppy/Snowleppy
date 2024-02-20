@@ -49,9 +49,9 @@ We welcome contributions from everyone! Here's how you can contribute:
 
 ## Roadmap
 
-Our roadmap is a living document that outlines the milestoneswe plan to achieve.\
+Our roadmap is a living document that outlines the milestoneswe plan to achieve.
 
-Stay updated with our roadmap [here](https://github.com/Snowleppy/Roadmap-SNLP.git)
+Stay updated with our roadmap [here](https://github.com/Snowleppy/Roadmap-SNLP.git).
 
 ## License
 
